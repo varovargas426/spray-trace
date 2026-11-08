@@ -1,0 +1,6 @@
+{"time":"2026-01-15T09:05:00+00:00","user":"alex","outcome":"success","ip":"192.0.2.9"}
+{"time":"2026-01-15T09:00:00+00:00","user":"alex","outcome":"failure","ip":"192.0.2.8"}
+{"time":"2026-01-15T09:03:00+00:00","user":"rene","outcome":"failure","ip":"192.0.2.8"}
+{"time":"2026-01-15T09:01:00+00:00","user":"alex","outcome":"failure","ip":"192.0.2.8"}
+{"time":"2026-01-15T09:04:00+00:00","user":"sam","outcome":"failure","ip":"192.0.2.8"}
+{"time":"2026-01-15T09:06:00+00:00","user":"alex","outcome":"success","ip":"192.0.2.8"}
